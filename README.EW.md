@@ -5,7 +5,6 @@ Team Members:
   Nigan Marin
   Alex Valerio
 
-
 Topic: Opioid Epidemic in the United States (1999-2020) 
 
 Subtopic: Opioid Mortality Rates and Public Health Expenditure by State 

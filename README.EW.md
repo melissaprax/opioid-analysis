@@ -1,11 +1,5 @@
 # Opioid Analysis
 
-## Topic:
-Opioid Epidemic in the United States (1999-2020)
-
-## Subtopic
-Opioid Mortality Rates and Public Health Expenditure by state
-
 ## Objective
 Contribute a supplementary focused analysis relating opioid mortality and public health expenditure by state to the discourse.
 

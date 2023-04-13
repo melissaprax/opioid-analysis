@@ -1,0 +1,415 @@
+"Notes"	"State"	"State Code"	"County"	"County Code"	"Five-Year Age Groups"	"Five-Year Age Groups Code"	"Gender"	"Gender Code"	"Race"	"Race Code"	Deaths	Population	Crude Rate
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"< 1 year"	"1"	"Female"	"F"	"White"	"2106-3"	11	4242	Unreliable
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"< 1 year"	"1"	"Male"	"M"	"White"	"2106-3"	11	4325	Unreliable
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	15	43370	Unreliable
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	27	38607	69.9
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	12	24598	Unreliable
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	34	25732	132.1
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	18	25700	Unreliable
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	35	24810	141.1
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	22	32654	67.4
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	45	29591	152.1
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	45	38947	115.5
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	82	35365	231.9
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	60	43129	139.1
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	111	39637	280.0
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	106	42549	249.1
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	159	39210	405.5
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	123	38705	317.8
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	224	36203	618.7
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	180	32756	549.5
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	300	30524	982.8
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	232	27431	845.8
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	377	24052	1567.4
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	356	23207	1534.0
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	516	19018	2713.2
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	640	20532	3117.1
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	729	15377	4740.8
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	887	17648	5026.1
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	959	11888	8067.0
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"85-89 years"	"85-89"	"Female"	"F"	"White"	"2106-3"	1251	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"85-89 years"	"85-89"	"Male"	"M"	"White"	"2106-3"	939	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"90-94 years"	"90-94"	"Female"	"F"	"White"	"2106-3"	1140	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"90-94 years"	"90-94"	"Male"	"M"	"White"	"2106-3"	643	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"95-99 years"	"95-99"	"Female"	"F"	"White"	"2106-3"	563	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"95-99 years"	"95-99"	"Male"	"M"	"White"	"2106-3"	204	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"100+ years"	"100+"	"Female"	"F"	"White"	"2106-3"	133	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Bristol County, RI"	"44001"	"100+ years"	"100+"	"Male"	"M"	"White"	"2106-3"	30	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"< 1 year"	"1"	"Female"	"F"	"White"	"2106-3"	85	16504	515.0
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"< 1 year"	"1"	"Male"	"M"	"White"	"2106-3"	92	17213	534.5
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"1-4 years"	"1-4"	"Female"	"F"	"White"	"2106-3"	11	68913	Unreliable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"1-4 years"	"1-4"	"Male"	"M"	"White"	"2106-3"	22	72758	30.2
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"5-9 years"	"5-9"	"Male"	"M"	"White"	"2106-3"	16	100285	Unreliable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"10-14 years"	"10-14"	"Female"	"F"	"White"	"2106-3"	13	103328	Unreliable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"10-14 years"	"10-14"	"Male"	"M"	"White"	"2106-3"	14	109415	Unreliable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	31	97071	31.9
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	52	105160	49.4
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	45	89671	50.2
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	118	92340	127.8
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	56	101975	54.9
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	136	102260	133.0
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	89	110102	80.8
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	180	107372	167.6
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	123	122337	100.5
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	216	116959	184.7
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	187	133645	139.9
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	337	126595	266.2
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	336	142275	236.2
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	516	132836	388.4
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	483	143282	337.1
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	12	2150	Unreliable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	792	133462	593.4
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	648	132364	489.6
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	20	1879	1064.4
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	1050	120614	870.5
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	886	110376	802.7
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"60-64 years "	"60-64"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	11	1546	Unreliable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	18	1452	Unreliable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	1226	98752	1241.5
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	1119	89519	1250.0
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	14	1008	Unreliable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	1458	77091	1891.3
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"70-74 years"	"70-74"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	10	860	Unreliable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	12	712	Unreliable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	1501	74856	2005.2
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"70-74 years"	"70-74"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	11	645	Unreliable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	17	650	Unreliable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	1881	58658	3206.7
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	11	470	Unreliable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	2265	65123	3478.0
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	11	346	Unreliable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	2286	45783	4993.1
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"80-84 years"	"80-84"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	11	365	Unreliable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	15	304	Unreliable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	3048	54538	5588.8
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"80-84 years"	"80-84"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	12	255	Unreliable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	13	203	Unreliable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	2740	32608	8402.8
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"85-89 years"	"85-89"	"Female"	"F"	"White"	"2106-3"	3948	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"85-89 years"	"85-89"	"Male"	"M"	"Black or African American"	"2054-5"	13	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"85-89 years"	"85-89"	"Male"	"M"	"White"	"2106-3"	2574	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"90-94 years"	"90-94"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	11	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"90-94 years"	"90-94"	"Female"	"F"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"90-94 years"	"90-94"	"Female"	"F"	"White"	"2106-3"	3292	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"90-94 years"	"90-94"	"Male"	"M"	"White"	"2106-3"	1476	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"95-99 years"	"95-99"	"Female"	"F"	"White"	"2106-3"	1497	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"95-99 years"	"95-99"	"Male"	"M"	"White"	"2106-3"	472	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"100+ years"	"100+"	"Female"	"F"	"White"	"2106-3"	340	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Kent County, RI"	"44003"	"100+ years"	"100+"	"Male"	"M"	"White"	"2106-3"	47	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"< 1 year"	"1"	"Female"	"F"	"White"	"2106-3"	26	7332	354.6
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"< 1 year"	"1"	"Male"	"M"	"White"	"2106-3"	30	7810	384.1
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	13	53961	Unreliable
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	27	53558	50.4
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	10	49725	Unreliable
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	44	52782	83.4
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	17	45634	Unreliable
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	47	49373	95.2
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	36	48729	73.9
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	63	47741	132.0
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	41	55341	74.1
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	65	55479	117.2
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	82	60065	136.5
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	109	58709	185.7
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	135	65251	206.9
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	10	2563	Unreliable
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	202	62107	325.2
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	13	2042	Unreliable
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	187	67854	275.6
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	19	2471	Unreliable
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	301	63568	473.5
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	15	1887	Unreliable
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	256	65369	391.6
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	14	2006	Unreliable
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	435	61719	704.8
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	10	1563	Unreliable
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	411	57474	715.1
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	20	1628	1228.5
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	492	53691	916.4
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	14	1375	Unreliable
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	492	47582	1034.0
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	20	1113	1796.9
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	639	44015	1451.8
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	23	1131	2033.6
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	604	39166	1542.2
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"70-74 years"	"70-74"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	10	493	Unreliable
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	35	940	3723.4
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	896	34273	2614.3
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	31	993	3121.9
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	931	31675	2939.2
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	40	684	5848.0
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	1042	24804	4200.9
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	50	846	5910.2
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	1314	25810	5091.0
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	35	504	6944.4
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	1208	17284	6989.1
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"85-89 years"	"85-89"	"Female"	"F"	"Black or African American"	"2054-5"	31	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"85-89 years"	"85-89"	"Female"	"F"	"White"	"2106-3"	1658	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"85-89 years"	"85-89"	"Male"	"M"	"Black or African American"	"2054-5"	26	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"85-89 years"	"85-89"	"Male"	"M"	"White"	"2106-3"	1198	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"90-94 years"	"90-94"	"Female"	"F"	"Black or African American"	"2054-5"	31	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"90-94 years"	"90-94"	"Female"	"F"	"White"	"2106-3"	1553	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"90-94 years"	"90-94"	"Male"	"M"	"Black or African American"	"2054-5"	12	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"90-94 years"	"90-94"	"Male"	"M"	"White"	"2106-3"	752	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"95-99 years"	"95-99"	"Female"	"F"	"Black or African American"	"2054-5"	10	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"95-99 years"	"95-99"	"Female"	"F"	"White"	"2106-3"	760	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"95-99 years"	"95-99"	"Male"	"M"	"White"	"2106-3"	260	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"100+ years"	"100+"	"Female"	"F"	"White"	"2106-3"	182	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Newport County, RI"	"44005"	"100+ years"	"100+"	"Male"	"M"	"White"	"2106-3"	31	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"< 1 year"	"1"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	18	4310	Unreliable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"< 1 year"	"1"	"Female"	"F"	"Black or African American"	"2054-5"	122	14101	865.2
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"< 1 year"	"1"	"Female"	"F"	"White"	"2106-3"	368	61498	598.4
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"< 1 year"	"1"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	32	4367	732.8
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"< 1 year"	"1"	"Male"	"M"	"Black or African American"	"2054-5"	151	14428	1046.6
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"< 1 year"	"1"	"Male"	"M"	"White"	"2106-3"	466	64689	720.4
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"1-4 years"	"1-4"	"Female"	"F"	"White"	"2106-3"	42	243652	17.2
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"1-4 years"	"1-4"	"Male"	"M"	"White"	"2106-3"	54	257122	21.0
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"5-9 years"	"5-9"	"Female"	"F"	"White"	"2106-3"	33	310283	10.6
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"5-9 years"	"5-9"	"Male"	"M"	"Black or African American"	"2054-5"	16	70580	Unreliable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"5-9 years"	"5-9"	"Male"	"M"	"White"	"2106-3"	35	328589	10.7
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"10-14 years"	"10-14"	"Female"	"F"	"Black or African American"	"2054-5"	12	70449	Unreliable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"10-14 years"	"10-14"	"Female"	"F"	"White"	"2106-3"	37	325943	11.4
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"10-14 years"	"10-14"	"Male"	"M"	"Black or African American"	"2054-5"	13	72336	Unreliable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"10-14 years"	"10-14"	"Male"	"M"	"White"	"2106-3"	50	345884	14.5
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"15-19 years"	"15-19"	"Female"	"F"	"Black or African American"	"2054-5"	14	75538	Unreliable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	94	394431	23.8
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"15-19 years"	"15-19"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	20	25835	77.4
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"15-19 years"	"15-19"	"Male"	"M"	"Black or African American"	"2054-5"	46	77612	59.3
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	192	403006	47.6
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"20-24 years"	"20-24"	"Female"	"F"	"Black or African American"	"2054-5"	14	75934	Unreliable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	137	429465	31.9
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"20-24 years"	"20-24"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	20	34003	58.8
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"20-24 years"	"20-24"	"Male"	"M"	"Black or African American"	"2054-5"	85	75858	112.1
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	414	430609	96.1
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"25-29 years"	"25-29"	"Female"	"F"	"Black or African American"	"2054-5"	39	67717	57.6
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	196	401038	48.9
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"25-29 years"	"25-29"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	14	32966	Unreliable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"25-29 years"	"25-29"	"Male"	"M"	"Black or African American"	"2054-5"	73	66724	109.4
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	475	403052	117.9
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"30-34 years"	"30-34"	"Female"	"F"	"Black or African American"	"2054-5"	33	60969	54.1
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	240	385230	62.3
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"30-34 years"	"30-34"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	17	28691	Unreliable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"30-34 years"	"30-34"	"Male"	"M"	"Black or African American"	"2054-5"	85	58556	145.2
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	556	381466	145.8
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"35-39 years"	"35-39"	"Female"	"F"	"Black or African American"	"2054-5"	71	58437	121.5
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	403	389799	103.4
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"35-39 years"	"35-39"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	28	21969	127.5
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"35-39 years"	"35-39"	"Male"	"M"	"Black or African American"	"2054-5"	109	55705	195.7
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	799	380613	209.9
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"40-44 years"	"40-44"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	15	18689	Unreliable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"40-44 years"	"40-44"	"Female"	"F"	"Black or African American"	"2054-5"	90	55690	161.6
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	620	403291	153.7
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"40-44 years"	"40-44"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	25	17484	143.0
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"40-44 years"	"40-44"	"Male"	"M"	"Black or African American"	"2054-5"	140	51877	269.9
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	1179	392959	300.0
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"45-49 years"	"45-49"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	21	16776	125.2
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"45-49 years"	"45-49"	"Female"	"F"	"Black or African American"	"2054-5"	112	50944	219.8
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	1016	418921	242.5
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"45-49 years"	"45-49"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	10	4637	Unreliable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"45-49 years"	"45-49"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	37	15973	231.6
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"45-49 years"	"45-49"	"Male"	"M"	"Black or African American"	"2054-5"	206	48732	422.7
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	1744	397186	439.1
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"50-54 years"	"50-54"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	10	4577	Unreliable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"50-54 years"	"50-54"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	20	14637	136.6
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"50-54 years"	"50-54"	"Female"	"F"	"Black or African American"	"2054-5"	148	45355	326.3
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	1443	411832	350.4
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"50-54 years"	"50-54"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	10	3665	Unreliable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"50-54 years"	"50-54"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	36	13592	264.9
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"50-54 years"	"50-54"	"Male"	"M"	"Black or African American"	"2054-5"	246	42847	574.1
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	2396	387929	617.6
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"55-59 years"	"55-59"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	11	3683	Unreliable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"55-59 years"	"55-59"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	46	12316	373.5
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"55-59 years"	"55-59"	"Female"	"F"	"Black or African American"	"2054-5"	190	36474	520.9
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	2130	376029	566.4
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"55-59 years"	"55-59"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	17	2959	Unreliable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"55-59 years"	"55-59"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	53	10820	489.8
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"55-59 years"	"55-59"	"Male"	"M"	"Black or African American"	"2054-5"	345	33623	1026.1
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	3327	349598	951.7
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"60-64 years "	"60-64"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	20	2623	762.5
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"60-64 years "	"60-64"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	40	9514	420.4
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"60-64 years "	"60-64"	"Female"	"F"	"Black or African American"	"2054-5"	214	27665	773.5
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	2558	318043	804.3
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"60-64 years "	"60-64"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	16	2113	Unreliable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"60-64 years "	"60-64"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	71	8749	811.5
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	321	24337	1319.0
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	3887	287087	1353.9
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"65-69 years"	"65-69"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	23	1822	1262.3
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"65-69 years"	"65-69"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	46	6733	683.2
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"65-69 years"	"65-69"	"Female"	"F"	"Black or African American"	"2054-5"	238	19642	1211.7
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	3285	259009	1268.3
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"65-69 years"	"65-69"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	20	1286	1555.2
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"65-69 years"	"65-69"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	87	6241	1394.0
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"65-69 years"	"65-69"	"Male"	"M"	"Black or African American"	"2054-5"	302	16518	1828.3
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	4423	222451	1988.3
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"70-74 years"	"70-74"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	17	1367	Unreliable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"70-74 years"	"70-74"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	44	4874	902.7
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"70-74 years"	"70-74"	"Female"	"F"	"Black or African American"	"2054-5"	281	14766	1903.0
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	4460	223903	1991.9
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"70-74 years"	"70-74"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	21	1025	2048.8
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"70-74 years"	"70-74"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	63	4213	1495.4
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"70-74 years"	"70-74"	"Male"	"M"	"Black or African American"	"2054-5"	320	11201	2856.9
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	5539	176814	3132.7
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"75-79 years"	"75-79"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	25	994	2515.1
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"75-79 years"	"75-79"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	65	2945	2207.1
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	281	11516	2440.1
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	6597	203599	3240.2
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"75-79 years"	"75-79"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	13	704	Unreliable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"75-79 years"	"75-79"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	77	2670	2883.9
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"75-79 years"	"75-79"	"Male"	"M"	"Black or African American"	"2054-5"	320	7106	4503.2
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	6907	141609	4877.5
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"80-84 years"	"80-84"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	13	697	Unreliable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"80-84 years"	"80-84"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	89	2048	4345.7
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	335	8082	4145.0
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	9624	177215	5430.7
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"80-84 years"	"80-84"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	13	462	Unreliable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"80-84 years"	"80-84"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	89	1444	6163.4
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	262	4350	6023.0
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	8277	103993	7959.2
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"85-89 years"	"85-89"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	36	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"85-89 years"	"85-89"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	80	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"85-89 years"	"85-89"	"Female"	"F"	"Black or African American"	"2054-5"	297	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"85-89 years"	"85-89"	"Female"	"F"	"White"	"2106-3"	12544	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"85-89 years"	"85-89"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	14	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"85-89 years"	"85-89"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	51	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"85-89 years"	"85-89"	"Male"	"M"	"Black or African American"	"2054-5"	175	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"85-89 years"	"85-89"	"Male"	"M"	"White"	"2106-3"	8241	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"90-94 years"	"90-94"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	19	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"90-94 years"	"90-94"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	52	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"90-94 years"	"90-94"	"Female"	"F"	"Black or African American"	"2054-5"	202	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"90-94 years"	"90-94"	"Female"	"F"	"White"	"2106-3"	11331	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"90-94 years"	"90-94"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	31	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"90-94 years"	"90-94"	"Male"	"M"	"Black or African American"	"2054-5"	78	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"90-94 years"	"90-94"	"Male"	"M"	"White"	"2106-3"	5162	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"95-99 years"	"95-99"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	17	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"95-99 years"	"95-99"	"Female"	"F"	"Black or African American"	"2054-5"	93	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"95-99 years"	"95-99"	"Female"	"F"	"White"	"2106-3"	5568	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"95-99 years"	"95-99"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	12	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"95-99 years"	"95-99"	"Male"	"M"	"Black or African American"	"2054-5"	27	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"95-99 years"	"95-99"	"Male"	"M"	"White"	"2106-3"	1614	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"100+ years"	"100+"	"Female"	"F"	"Black or African American"	"2054-5"	28	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"100+ years"	"100+"	"Female"	"F"	"White"	"2106-3"	1340	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"100+ years"	"100+"	"Male"	"M"	"White"	"2106-3"	242	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Providence County, RI"	"44007"	"Not Stated"	"NS"	"Male"	"M"	"White"	"2106-3"	18	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"< 1 year"	"1"	"Female"	"F"	"White"	"2106-3"	47	10437	450.3
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"< 1 year"	"1"	"Male"	"M"	"White"	"2106-3"	50	11073	451.5
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"5-9 years"	"5-9"	"Female"	"F"	"White"	"2106-3"	10	69522	Unreliable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"10-14 years"	"10-14"	"Female"	"F"	"White"	"2106-3"	13	77432	Unreliable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"15-19 years"	"15-19"	"Female"	"F"	"White"	"2106-3"	20	114922	17.4
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"15-19 years"	"15-19"	"Male"	"M"	"White"	"2106-3"	41	108737	37.7
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"20-24 years"	"20-24"	"Female"	"F"	"White"	"2106-3"	31	109711	28.3
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"20-24 years"	"20-24"	"Male"	"M"	"White"	"2106-3"	86	111872	76.9
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"25-29 years"	"25-29"	"Female"	"F"	"White"	"2106-3"	34	55279	61.5
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"25-29 years"	"25-29"	"Male"	"M"	"White"	"2106-3"	96	57547	166.8
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"30-34 years"	"30-34"	"Female"	"F"	"White"	"2106-3"	33	65834	50.1
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"30-34 years"	"30-34"	"Male"	"M"	"White"	"2106-3"	98	63701	153.8
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"35-39 years"	"35-39"	"Female"	"F"	"White"	"2106-3"	59	79280	74.4
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"35-39 years"	"35-39"	"Male"	"M"	"White"	"2106-3"	124	74614	166.2
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"40-44 years"	"40-44"	"Female"	"F"	"White"	"2106-3"	98	92895	105.5
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"40-44 years"	"40-44"	"Male"	"M"	"White"	"2106-3"	170	86640	196.2
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"45-49 years"	"45-49"	"Female"	"F"	"White"	"2106-3"	166	103914	159.7
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"45-49 years"	"45-49"	"Male"	"M"	"White"	"2106-3"	289	96724	298.8
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"50-54 years"	"50-54"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	12	964	Unreliable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"50-54 years"	"50-54"	"Female"	"F"	"White"	"2106-3"	234	107124	218.4
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"50-54 years"	"50-54"	"Male"	"M"	"White"	"2106-3"	448	100434	446.1
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"55-59 years"	"55-59"	"Female"	"F"	"White"	"2106-3"	411	101061	406.7
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"55-59 years"	"55-59"	"Male"	"M"	"White"	"2106-3"	577	96173	600.0
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"60-64 years "	"60-64"	"Female"	"F"	"White"	"2106-3"	528	86315	611.7
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"60-64 years "	"60-64"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	11	571	Unreliable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"60-64 years "	"60-64"	"Male"	"M"	"Black or African American"	"2054-5"	14	710	Unreliable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"60-64 years "	"60-64"	"Male"	"M"	"White"	"2106-3"	817	82559	989.6
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"65-69 years"	"65-69"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	12	664	Unreliable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"65-69 years"	"65-69"	"Female"	"F"	"White"	"2106-3"	681	69120	985.2
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"65-69 years"	"65-69"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	12	444	Unreliable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"65-69 years"	"65-69"	"Male"	"M"	"White"	"2106-3"	962	64841	1483.6
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"70-74 years"	"70-74"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	20	478	4184.1
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"70-74 years"	"70-74"	"Female"	"F"	"White"	"2106-3"	904	54517	1658.2
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"70-74 years"	"70-74"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	14	322	Unreliable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"70-74 years"	"70-74"	"Male"	"M"	"White"	"2106-3"	1204	47798	2518.9
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"75-79 years"	"75-79"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	14	322	Unreliable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"75-79 years"	"75-79"	"Female"	"F"	"Black or African American"	"2054-5"	10	347	Unreliable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"75-79 years"	"75-79"	"Female"	"F"	"White"	"2106-3"	1263	43144	2927.4
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"75-79 years"	"75-79"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	18	248	Unreliable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"75-79 years"	"75-79"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	13	345	Unreliable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"75-79 years"	"75-79"	"Male"	"M"	"White"	"2106-3"	1441	33886	4252.5
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"80-84 years"	"80-84"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	11	223	Unreliable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"80-84 years"	"80-84"	"Female"	"F"	"Black or African American"	"2054-5"	10	221	Unreliable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"80-84 years"	"80-84"	"Female"	"F"	"White"	"2106-3"	1785	34070	5239.2
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"80-84 years"	"80-84"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	14	136	Unreliable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"80-84 years"	"80-84"	"Male"	"M"	"Asian or Pacific Islander"	"A-PI"	10	215	Unreliable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"80-84 years"	"80-84"	"Male"	"M"	"Black or African American"	"2054-5"	10	199	Unreliable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"80-84 years"	"80-84"	"Male"	"M"	"White"	"2106-3"	1700	23183	7333.0
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"85-89 years"	"85-89"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	13	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"85-89 years"	"85-89"	"Female"	"F"	"Asian or Pacific Islander"	"A-PI"	11	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"85-89 years"	"85-89"	"Female"	"F"	"White"	"2106-3"	2347	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"85-89 years"	"85-89"	"Male"	"M"	"White"	"2106-3"	1680	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"90-94 years"	"90-94"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	16	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"90-94 years"	"90-94"	"Female"	"F"	"White"	"2106-3"	2132	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"90-94 years"	"90-94"	"Male"	"M"	"White"	"2106-3"	1111	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"95-99 years"	"95-99"	"Female"	"F"	"White"	"2106-3"	1038	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"95-99 years"	"95-99"	"Male"	"M"	"White"	"2106-3"	326	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"100+ years"	"100+"	"Female"	"F"	"White"	"2106-3"	225	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"Washington County, RI"	"44009"	"100+ years"	"100+"	"Male"	"M"	"White"	"2106-3"	35	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"Title: Multiple Cause of Death, 1999-2020 (State, County, 5-Yr Age Groups, Gender, Race)"
+"States: Rhode Island (44)"
+"Group By: State; County; Five-Year Age Groups; Gender; Race"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Apr 11, 2023 8:20:25 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Apr 11, 2023 8:20:25 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Ages 85-100."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"3. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"4. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"5. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"6. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Racial Differences."
+"7. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"8. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."

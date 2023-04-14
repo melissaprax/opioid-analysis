@@ -1,0 +1,15 @@
+STATE: State abbreviations
+STATE: State abbreviations
+STFIPS: Census state FIPS code
+STFIPS: Census state FIPS code
+DETOX: Facility offers detoxification (Q.1)
+TREATMT: Facility offers substance use treatment (Q.1)
+SMISEDSUD: Facility offers treatment for co-occurring serious mental illness
+(SMI)/serious emotional disturbance (SED) and substance use disorders (Q.1)
+Value Label Frequency
+OWNERSHP: Organization that operates the facility (Q.8)
+FEDOWN: Federal government agency that operates the facility (Q.8a)
+HOSPITAL: Facility is a hospital or located in or operated by a hospital (Q.24)
+LOCS: Type of hospital (Q.24a)
+LOC5: Facility operates transitional housing or a halfway house for substance use
+clients (Q.25)

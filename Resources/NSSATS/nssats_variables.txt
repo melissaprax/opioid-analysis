@@ -1,4 +1,4 @@
-STATE: State abbreviations
+ STATE: State abbreviations
 STATE: State abbreviations
 STFIPS: Census state FIPS code
 STFIPS: Census state FIPS code

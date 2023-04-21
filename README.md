@@ -51,16 +51,15 @@ N-SSATS-2020 Codebook
 <br />
 
 ### Plotting drug deaths and only opioid-specific deaths
-<img src="../opioid-analysis/screenshots/demographics/All drug deaths vs opioid-specific deaths from 20142020.png" alt="line graph with two lines showing drug deaths and only opioid-specific deaths" title="All drug deaths vs. opioid-specific deaths from 2014-2020">
 
 ### Opioid mortality rate based across age groups
-<img src="../opioid-analysis/screenshots/demographics/Opioid mortality rate based across age groups.png" alt="line graph showing opioid deaths based across age groups" title="Opioid mortality rate based across age groups">
+
 
 ### Opioid mortality rates for 24-35 year olds broken down by gender
-<img src="../opioid-analysis/screenshots/demographics/Opioid mortality rate for 24-35 year olds broken down by gender from 2014-2020.png" alt="Grouped bar chart opioid mortality rates for 24-35 year olds broken down by gender " title="Opioid mortality rates for 24-35 year olds broken down by gender ">
+
 
 ### Male deaths by opioid type
-<img src="../opioid-analysis/screenshots/demographics/Male deaths by opioid type from 20142020.png" title="Male deaths by opioid type ">
+
 
 <br />
 <br />
@@ -70,8 +69,6 @@ N-SSATS-2020 Codebook
 
 ### U.S. Color Map of:
 - Opioid Mortality Rate (per 100,000)
-<img src="../opioid-analysis/Analysis/Figures/Finals/mortality.png">
-
 - Number of Substance Abuse Treatment Facilities
 - Opioid Treatment Programs : Opioid Mortality
 

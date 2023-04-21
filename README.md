@@ -94,7 +94,7 @@ odMortRtAv_regional_pairwise_ttest_results.csv
 
 ## Powerpoint presentation
 
-Can access under Presentation folder in the repository (Presentation/Opioid_Epidemic_EDA.pptx) or by accessing in Google slides:
+Google slides:
 https://docs.google.com/presentation/d/17T2JVdQYNJ88yuzpvdLqhR-1VcwnK_MU8-BpknB8m9A/edit#slide=id.g237397f7d59_0_6
 
 ## Summary

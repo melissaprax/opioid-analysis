@@ -47,15 +47,11 @@ N-SSATS-2020 Codebook
 
 ### demographics.ipynb
 
-### examining the demographics surrounding drug and opioid-specific death rates
-
-### Plotting drug deaths and only opioid-specific deaths
-
-### Opioid mortality rate based across age groups
-
-### Opioid mortality rates for 24-35 year olds broken down by gender
-
-### Male deaths by opioid type
+- examining the demographics surrounding drug and opioid-specific death rates
+- Plotting drug deaths and only opioid-specific deaths
+- Opioid mortality rate based across age groups
+- Opioid mortality rates for 24-35 year olds broken down by gender
+- Male deaths by opioid type
 
 ## Choropleth.ipynb
 
@@ -81,10 +77,12 @@ Boxplot of State Opioid Mortality Rate by Region
 odMortRtAv_regional_pairwise_gameshowell_results.csv
 odMortRtAv_regional_pairwise_ttest_results.csv
 
+## Screenshots of plots under Analysis/Figures
+
 ## Powerpoint presentation
 
 Google slides:
-https://docs.google.com/presentation/d/17T2JVdQYNJ88yuzpvdLqhR-1VcwnK_MU8-BpknB8m9A/edit#slide=id.g237397f7d59_0_6
+[Link to presentation](https://docs.google.com/presentation/d/17T2JVdQYNJ88yuzpvdLqhR-1VcwnK_MU8-BpknB8m9A/edit#slide=id.g237397f7d59_0_6)
 
 ## Summary
 - Opioid-related deaths constitute ~50% of all drug deaths

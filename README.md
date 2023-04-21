@@ -1,4 +1,5 @@
-# Exploratory Data Analysis of the U.S. Opioid Epidemic
+![Opioid Analysis](https://user-images.githubusercontent.com/126301312/233531472-20414c13-fca5-4803-9321-b78f7e31dadd.png)
+
 
 ## Technologies used:
 - Python

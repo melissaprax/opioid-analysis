@@ -48,24 +48,14 @@ N-SSATS-2020 Codebook
 ### demographics.ipynb
 
 ### examining the demographics surrounding drug and opioid-specific death rates
-<br />
-<br />
-<br />
 
 ### Plotting drug deaths and only opioid-specific deaths
 
 ### Opioid mortality rate based across age groups
 
-
 ### Opioid mortality rates for 24-35 year olds broken down by gender
 
-
 ### Male deaths by opioid type
-
-
-<br />
-<br />
-<br />
 
 ## Choropleth.ipynb
 

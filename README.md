@@ -6,6 +6,8 @@
 - Matplotlib
 - Plotly
 - Seaborn
+- pingouin
+- scipy.stats
 
 ## Primary Research Questions:
 
